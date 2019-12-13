@@ -5,7 +5,7 @@
 a)O(n) because how many times the while loop runs depends directly on the value of n
 
 
-b)O(n^2) because of the nested loop.  Both loop sizes are dependent on the value of n, causing the time complexity to be n raised to the 2nd degree.
+b)O(n^3) because of the nested loop.  Both loop sizes are dependent on the value of n, causing the time complexity to be n raised to the 2nd degree.
 
 
 c)O(n) also because you are calling a recursive function until it hits 0 and the code is dependent on the value of bunnies
